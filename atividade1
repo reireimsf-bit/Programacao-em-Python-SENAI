@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="5qSx6pBmBrES7iCXzwfC">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-5" edge="1" parent="1" source="3H3kh2-uizCVmhXv2KSI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ZW4VJgW7OjpQGzN92OpB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3H3kh2-uizCVmhXv2KSI-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="INICIO" vertex="1">
+          <mxGeometry height="30" width="81" x="179.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Objetivo: Realizar a soma de dois números." vertex="1">
+          <mxGeometry height="30" width="310" x="259" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-7" edge="1" parent="1" source="ZW4VJgW7OjpQGzN92OpB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZW4VJgW7OjpQGzN92OpB-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-4" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="Número 1" vertex="1">
+          <mxGeometry height="60" width="100" x="170" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-9" edge="1" parent="1" source="ZW4VJgW7OjpQGzN92OpB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZW4VJgW7OjpQGzN92OpB-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-6" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="Número 2" vertex="1">
+          <mxGeometry height="60" width="100" x="170" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-8" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" value="Soma = Num1 + Num 2" vertex="1">
+          <mxGeometry height="60" width="136" x="340" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="soma" vertex="1">
+          <mxGeometry height="60" width="100" x="540" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-11" edge="1" parent="1" source="ZW4VJgW7OjpQGzN92OpB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZW4VJgW7OjpQGzN92OpB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="FIM" vertex="1">
+          <mxGeometry height="60" width="100" x="540" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZW4VJgW7OjpQGzN92OpB-13" edge="1" parent="1" source="ZW4VJgW7OjpQGzN92OpB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZW4VJgW7OjpQGzN92OpB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
