@@ -17,4 +17,10 @@ except ZeroDivisionError:
 
 # 3
 
-lista = ["banana", "mamão", "limão"]
+lista = ["mamão","laranja","banana","limão"]
+num4 = input("Escolha: mamão, laranja, banana ou limão? ")
+
+try:
+    print(f"Index do item: {lista.index(num4)}")
+except ValueError:
+    print("Item não consta na lista!")
